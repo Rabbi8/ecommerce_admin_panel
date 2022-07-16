@@ -1,0 +1,8 @@
+login information
+
+'username' attribute and 'password' attribute is login criteria of 'admin_users' table. 
+
+single login information. 
+
+username = Agustina
+password = y3zE9fDZfoUlwYQ

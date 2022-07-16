@@ -1,0 +1,12 @@
+.login_failed{
+    color:red;
+}
+.badge a{
+    color:#fff;
+}
+.badge-edit {
+    background-color:#2994a5;
+}
+.badge-delete {
+    background-color:#d41041a9;
+}
